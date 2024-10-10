@@ -4,7 +4,7 @@
 ### catting absolute paths
 - `cat /flag`
 ### more catting practice
--  `cat /usr/share/calendar/flag` in the terminal and got the flag
+-  `cat /usr/share/calendar/flag` 
 ### grepping for a needle in a haystack
 - `grep pwn.college /challenge/data.txt` 
 ### listing files
