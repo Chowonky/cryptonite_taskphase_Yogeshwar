@@ -6,4 +6,12 @@
 - File Globbing
 - Digesting Documentation: 
 - Practicing Piping
+
+### Day 11-20
+- Shell Variables
+- Processes and Jobs
+- Perceiving Permissions
+- Untangling Users
+- Chaining Commands
+- Pondering PATH
   
