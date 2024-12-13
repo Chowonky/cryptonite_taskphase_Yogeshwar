@@ -15,7 +15,6 @@
 required condition: calculated_digest=digest 
 => original_signature % N = digest (keeping E=1)
 => original_signature=kN + digest 
-where k is any integer
 => N=(original_signature-digest)/k
 taking k=1
 => N = original_signature - digest 
